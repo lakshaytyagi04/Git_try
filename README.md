@@ -1,3 +1,3 @@
 # Git_try
 learning github
-Author-Lakshay
+Author-Lakshay Tyagi
